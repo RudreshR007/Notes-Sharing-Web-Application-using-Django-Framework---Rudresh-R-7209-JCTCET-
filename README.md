@@ -1,7 +1,6 @@
 # Notes-Sharing-Web-Application-using-Django-Framework---Rudresh-R-7209-JCTCET-
 Notes Sharing Web Application using Django Framework
-# Notes-Sharing-Web-Application-using-Django-Framework---Anirudh-J-7209-JCTCET
-Notes Sharing Web Application using Django Framework
+
 Django based music layer
 Django Music Player is a simple web application built with Django that allows users to upload, manage notes 
 
